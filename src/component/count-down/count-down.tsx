@@ -1,4 +1,4 @@
-import { useCountDown } from './count-down'
+import { useCountDown } from './count-down.hook'
 import * as S from './count-down.style'
 
 const CountDown = () => {
